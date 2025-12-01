@@ -83,10 +83,16 @@ graph:
     displayName: A3 无人值守版
     skuId: 1aa94593-ca12-4254-a738-81a5972958e8
   - skuName: Office_365_E3Y
-    displayName: E3Y
+    displayName: E3 SY
     skuId: 6fd2c87f-b296-42f0-b197-1e91e994b900
   - skuName: DEVELOPERPACK_E5
     displayName: E5 开发者订阅
     skuId: c42b9cae-ea4f-4ab7-9717-81576235ccac
+  - skuName: DEVELOPERPACK
+    displayName: E3 开发者订阅
+    skuId: 189a915c-fe4f-4ffa-bde4-85b9628d07a0
+  - skuName: STANDARDPACK
+    displayName: E1 SY
+    skuId: 18181a46-0d4e-45cd-891e-60aabd171b4e
 
 ```
